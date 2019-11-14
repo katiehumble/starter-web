@@ -8,7 +8,7 @@ Sample website with plenty of files for demos
 More text going right here. 
 
 ## Deployment
-more edits
+more edits, then more changes from here 2. yes. 
 
 ## How to Contribute
 
