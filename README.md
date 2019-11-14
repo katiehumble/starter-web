@@ -10,3 +10,6 @@ Sample website with plenty of files for demos
 more edits
 
 ## How to Contribute
+
+### Copyright
+Git. Training. 2019
