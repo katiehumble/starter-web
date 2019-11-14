@@ -3,6 +3,7 @@
 
 # TEAM
 Jason Taylor jason@git.taning
+Katie Humble
 
     <name> -- <role> -- <twitter>
 
