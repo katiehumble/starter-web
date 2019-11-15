@@ -3,7 +3,7 @@
 
 # TEAM
 Jason Taylor jason@git.taning
-Katie Humble, Graphic designer
+Katie Humble, Graphic designer Humble & Kind
 
     <name> -- <role> -- <twitter>
 
