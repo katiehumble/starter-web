@@ -14,3 +14,6 @@ more edits, then more changes from here 2. yes.
 
 ### Copyright
 Git. Training. 2019
+
+### Copytight1
+All rights reserverd
